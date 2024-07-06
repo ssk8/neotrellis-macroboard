@@ -1,7 +1,9 @@
 # neotrellis-macroboard
 
 
-Use the Adafruit NeoTrellis M4 as a macropad by installing [CircuitPython](https://circuitpython.org/board/trellis_m4_express/) and [KMK](https://kmkfw.io/). The current keymap is for navigating in Sway, Firefox and MPV.
+Use the Adafruit NeoTrellis M4 as a macropad by installing [CircuitPython](https://circuitpython.org/board/trellis_m4_express/) and [KMK](https://kmkfw.io/).
+
+The current [layout](http://www.keyboard-layout-editor.com) is for navigating in Sway, Firefox and MPV:
 
 ![keymap](https://github.com/ssk8/neotrellis-macroboard/blob/main/keyboard-layout.jpg?raw=true)
 
